@@ -1,4 +1,4 @@
-Copyright (c) IT Task Force Limited. All rights reserved.
+Copyright (c) <a href="ittaskforce.co.nz">IT Task Force Limited</a>. All rights reserved.
 
 # Create Remote Desktop Sesson Collection deployment
 
