@@ -1,3 +1,5 @@
+Copyright (c) IT Task Force Limited. All rights reserved.
+
 # Create Remote Desktop Sesson Collection deployment
 
 This template deploys the following resources:
